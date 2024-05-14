@@ -1,16 +1,21 @@
 # motor_show_2024_project
 
-A new Flutter project.
+# dti_mukrata_app
 
-## Getting Started
+Created By : Dusit Pakdeekunakorn DTU-SAU
 
-This project is a starting point for a Flutter application.
+## Splash Screen
+<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/spsrc.jpg" width="150px">
 
-A few resources to get you started if this is your first Flutter project:
+  
+## Screen UI
+<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/home.jpg" width="150px">
+  
+<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/input.jpg" width="150px">
+  
+<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/result.jpg" width="150px">
+  
+<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/about.jpg" width="150px">
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
