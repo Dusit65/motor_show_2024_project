@@ -9,7 +9,7 @@ Created By : Dusit Pakdeekunakorn DTU-SAU
 
 ## introduction screen
 
-<image src="https://github.com/Dusit65/motor_show_2024_project/blob/main/intrjo.jpg" width="150px">
+<image src="https://github.com/Dusit65/motor_show_2024_project/blob/main/intro.jpg" width="150px">
 
 ## Screen UI
 
