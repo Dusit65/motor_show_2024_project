@@ -1,7 +1,5 @@
 # motor_show_2024_project
 
-# dti_mukrata_app
-
 Created By : Dusit Pakdeekunakorn DTU-SAU
 
 ## Splash Screen
