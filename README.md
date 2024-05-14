@@ -5,7 +5,7 @@
 Created By : Dusit Pakdeekunakorn DTU-SAU
 
 ## Splash Screen
-<image src="https://github.com/Dusit65/dti_mukrata_app/blob/main/spsrc.jpg" width="150px">
+<image src="https://github.com/Dusit65/motor_show_2024_project/blob/main/spsrc.jpg" width="150px">
 
   
 ## Screen UI
